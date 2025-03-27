@@ -332,7 +332,7 @@ st.write(f'{translations[lang_code]["energy_potential"]}: {round(E, 2)} MJ')
 st.header(f'{translations[lang_code]["references"]}')
 '''1. **Chastain, John, et al.** *Swine Manure Production and Nutrient Content.* Jan. 2003. [Link](https://www.clemson.edu/extension/agronomy/Manure-Nutrient-Content.pdf)
 
-2. **Elsayed, Samah.** *Measuring Small-Scale Biogas Capacity and Production.* International Renewable Energy Agency.https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2016/IRENA_Statistics_Measuring_small-scale_biogas_2016.pdf
+2. **Elsayed, Samah.** *Measuring Small-Scale Biogas Capacity and Production.* International Renewable Energy Agency. https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2016/IRENA_Statistics_Measuring_small-scale_biogas_2016.pdf
 
 3. **ISA Brown - ISA.** ISA, 2025. [Link](https://www.isa-poultry.com/en/product/isa-brown/?utm_source=chatgpt.com) 
 
